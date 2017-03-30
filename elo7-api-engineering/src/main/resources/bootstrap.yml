@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: elo7-engineering-api
